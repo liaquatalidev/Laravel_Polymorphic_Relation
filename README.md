@@ -1,4 +1,6 @@
-## Laravel Eloquent One-to-Many Polymorphic Relation Documentation
+## Laravel Eloquent One-to-Many and Many-to-Many Polymorphic Relation Documentation
+
+## 1 One-to-Many
 
 ## Introduction
 
